@@ -17,3 +17,12 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3
 http://112.50.243.7/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 group-title="香港电视",凤凰资讯3
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+
+#EXTINF:-1 group-title="省内",郴州综合
+http://32130.hlsplay.aodianyun.com:80/tv_radio_32130/tv_channel_680.m3u8
+#EXTINF:-1 group-title="省内",郴州公共
+http://117.159.48.60:80/tv_radio_32130/tv_channel_679__redirect__32130.m3u8
+#EXTINF:-1 group-title="省内",郴州1
+http://117.159.48.60:80/tv_radio_32130/tv_channel_678__redirect__32130.m3u8
+#EXTINF:-1 group-title="省内",郴州2
+http://117.159.48.60:80/tv_radio_32130/tv_channel_681__redirect__32130.m3u8
