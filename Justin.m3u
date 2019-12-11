@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视",CCTV1高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV2高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV4高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV13
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226339/1.m3u8
+
 #EXTINF:-1 group-title="香港电视",凤凰中文1
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 group-title="香港电视",凤凰中文2
@@ -18,11 +27,32 @@ http://112.50.243.7/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 group-title="香港电视",凤凰资讯3
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 
+#EXTINF:-1 group-title="香港电视",TVBS
+http://cloud-play.hhalloy.com/live/f94be038bca84147bbf132d8ddd9bb39.flv
+#EXTINF:-1 group-title="香港电视",TVBS精采
+http://cloud-play.hhalloy.com/live/15379cc75ee0fb41ab2fb3a11f3d909f.flv
+#EXTINF:-1 group-title="香港电视",TVBS欢乐
+http://cloud-play.hhalloy.com/live/5e81e3b3e2d8b887db0bc2976558c7ea.flv
+
+#EXTINF:-1 group-title="香港电视",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="香港电视",星卫HD电影
+http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.flv
+#EXTINF:-1 group-title="香港电视",TVB 星河
+http://cloud-play.hhalloy.com/live/e70f35708baededbbd1d0963f76981a1.flv
+#EXTINF:-1 group-title="香港电视",TVB 功夫
+http://cloud-play.hhalloy.com/live/cfd2b3912b756d6d4965f018fd7d3717.flv
+#EXTINF:-1 group-title="香港电视",卫视中文台[HD]
+http://cloud-play.hhalloy.com/live/a08a123b4af3aebb4e19b82f64952c9e.flv
+#EXTINF:-1 group-title="香港电视",TVB 翡翠台
+http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
+#EXTINF:-1 group-title="香港电视",TVB J2
+http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv
+
 #EXTINF:-1 group-title="省内",郴州综合
 http://32130.hlsplay.aodianyun.com:80/tv_radio_32130/tv_channel_680.m3u8
 #EXTINF:-1 group-title="省内",郴州公共
 http://117.159.48.60:80/tv_radio_32130/tv_channel_679__redirect__32130.m3u8
-#EXTINF:-1 group-title="省内",郴州1
-http://117.159.48.60:80/tv_radio_32130/tv_channel_678__redirect__32130.m3u8
-#EXTINF:-1 group-title="省内",郴州2
-http://117.159.48.60:80/tv_radio_32130/tv_channel_681__redirect__32130.m3u8
+
+#EXTINF:-1 group-title="其它",新加坡亚洲新闻台
+http://cloud-play.hhalloy.com/live/1aab6cf57296bdefc6f4bea94702782a.flv
