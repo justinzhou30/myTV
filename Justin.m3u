@@ -128,12 +128,50 @@ http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.flv
 http://cloud-play.hhalloy.com/live/e70f35708baededbbd1d0963f76981a1.flv
 #EXTINF:-1 group-title="香港电视",TVB 功夫
 http://cloud-play.hhalloy.com/live/cfd2b3912b756d6d4965f018fd7d3717.flv
+#EXTINF:-1 group-title="香港电视",TVB 明珠
+http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv
 #EXTINF:-1 group-title="香港电视",卫视中文台[HD]
 http://cloud-play.hhalloy.com/live/a08a123b4af3aebb4e19b82f64952c9e.flv
 #EXTINF:-1 group-title="香港电视",TVB 翡翠台
 http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
 #EXTINF:-1 group-title="香港电视",TVB J2
 http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv
+
+
+#EXTINF:-1 group-title="台湾",中天新闻
+http://cloud-play.hhalloy.com/live/e1a397539e76f45bbbf39d1467024aa3.flv
+#EXTINF:-1 group-title="台湾",东森新闻
+http://cloud-play.hhalloy.com/live/b237f97b0e9e21e88e0bdaae40730332.flv
+#EXTINF:-1 group-title="台湾",民视新闻
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1 group-title="台湾",靖天资讯
+http://cloud-play.hhalloy.com/live/e81342a5e0ecde1ee634f19b50fab501.flv
+#EXTINF:-1 group-title="台湾",寰宇新闻
+http://cloud-play.hhalloy.com/live/4677cf6625ce01b236bbb58f99094d51.flv
+#EXTINF:-1 group-title="台湾",寰宇新闻2
+http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flv
+#EXTINF:-1 group-title="台湾",三立新闻
+http://59.125.101.122:8080/live/soooli0715.m3u8
+#EXTINF:-1 group-title="台湾",中视新闻
+http://cloud-play.hhalloy.com/live/cf4d66edc142b2f0cc8c71bca56b2268.flv
+#EXTINF:-1 group-title="台湾",非凡新闻
+http://cloud-play.hhalloy.com/live/408a2834f703f2162d0d5b5789344c39.flv
+
+#EXTINF:-1 group-title="国外",新加坡亚洲新闻
+http://cloud-play.hhalloy.com/live/1aab6cf57296bdefc6f4bea94702782a.flv
+#EXTINF:-1 group-title="国外",BBC World News
+http://cloud-play.hhalloy.com/live/6d735caeaf70f8901aa00f86aefc4dde.flv
+#EXTINF:-1 group-title="国外",CNN News
+http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
+#EXTINF:-1 group-title="国外",FOX News
+http://cloud-play.hhalloy.com/live/b78a7c4f460285596b53bfa802eca8e8.flv
+#EXTINF:-1 group-title="国外",SKY News
+http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.flv
+#EXTINF:-1 group-title="国外",NHK World
+http://cloud-play.hhalloy.com/live/1b06c6242b2fd17ab11a21d70abb2e67.flv
+#EXTINF:-1 group-title="国外",欧洲新闻
+http://cloud-play.hhalloy.com/live/7c52797bf1ca2da52c212bdead1d607c.flv
+
 
 #EXTINF:-1 group-title="省内",郴州综合
 http://32130.hlsplay.aodianyun.com:80/tv_radio_32130/tv_channel_680.m3u8
@@ -324,6 +362,3 @@ https://gccncc.v.wscdns.com/gc/ztn_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="风景",中央电视台中塔北
 https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
 
-
-#EXTINF:-1 group-title="其它",新加坡亚洲新闻台
-http://cloud-play.hhalloy.com/live/1aab6cf57296bdefc6f4bea94702782a.flv
