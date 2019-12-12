@@ -232,7 +232,16 @@ http://cloud-play.hhalloy.com/live/ab2450af4c80b52d0810eceaf055abee.flv
 http://32130.hlsplay.aodianyun.com:80/tv_radio_32130/tv_channel_680.m3u8
 #EXTINF:-1 group-title="省内",郴州公共
 http://117.159.48.60:80/tv_radio_32130/tv_channel_679__redirect__32130.m3u8
-
+#EXTINF:-1 group-title="省内",深圳都市
+http://sztv-hls.cutv.com:80/ZwxzUXr/500/44uZ7x0.m3u8?sign=c89fee1f1f296f514774d0178fb93c93&t=5df1accf
+#EXTINF:-1 group-title="省内",深圳电视剧
+http://sztv-hls.cutv.com:80/4azbkoY/500/12r17z0.m3u8?sign=556296c4c125caf409eb057440940f82&t=5df1acd3
+#EXTINF:-1 group-title="省内",深圳公共
+http://sztv-hls.cutv.com:80/2q76Sw2/500/61k2740.m3u8?sign=78d6596395b692da333d3414b0c664c6&t=5df1ad29
+#EXTINF:-1 group-title="省内",深圳财经
+http://sztv-hls.cutv.com:80/3vlcoxP/500/k2a37l0.m3u8?sign=68b7070988d99c31dc4a727edc939f54&t=5df1ad62
+#EXTINF:-1 group-title="省内",深圳娱乐
+http://sztv-hls.cutv.com:80/1q4iPng/500/8i1710P.m3u8?sign=b92069b5b3aeea5507ab06ca8f10f4d1&t=5df1adaa
 
 #EXTINF:-1 group-title="探索地理",Discovery Asia
 http://cloud-play.hhalloy.com/live/f325e0ce8ddf55c2df916b6f2bc0e07c.flv 
