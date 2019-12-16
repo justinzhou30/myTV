@@ -470,3 +470,8 @@ http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991
 https://txdirect.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="电影",咪咕4K
 http://39.134.52.180/PLTV/88888888/224/3221226162/index.m3u8
+
+#EXTINF:-1 group-title="电影",中国新疆，反恐前沿
+https://interface.sina.cn/wap_api/video_location.d.html?cid=37766&table_id=36885&did=ihnzhfz4007300&vt=4&creator_id=1001&vid=31481911101&video_id=314819111&r=video.sina.cn%2Fnews%2F2019-12-06%2Fdetail-iihnzhfz4007300.d.html&wm=&time=1576473071485&rd=0.7313767706193317
+#EXTINF:-1 group-title="电影",幕后黑手——“东伊运”与新疆暴恐
+http://video.chinanews.com/flv/2019/1208/wangyi01.mp4
